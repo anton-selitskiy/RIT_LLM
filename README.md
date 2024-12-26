@@ -1,1 +1,1 @@
-# RIT_LLM
+# Syllabus
