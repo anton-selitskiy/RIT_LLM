@@ -1,6 +1,6 @@
 # Week 14 Text-to-Speech, Vocoders
 
-Lecture: [video 1](https://youtu.be/g8pqdXw9Ebg), video 2
+Lecture: [video 1](https://youtu.be/g8pqdXw9Ebg), [video 2](https://youtu.be/AD5LYLhmTnE)
 
 Practice: [notebook](./WaveNet.ipynb)
 
